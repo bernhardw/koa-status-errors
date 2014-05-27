@@ -1,6 +1,6 @@
 # koa-status-errors
 
-Opinionated way to communicate application errors via status codes with your API users.
+Opinionated way to communicate application errors via status codes with your API users in Koa.
 
 ## Info
 

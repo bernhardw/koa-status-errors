@@ -1,7 +1,7 @@
 {
     "name": "koa-status-errors",
     "version": "0.0.1",
-    "description": "Opinionated way to communicate application errors based on status codes in Koa.",
+    "description": "Opinionated way to communicate application errors via status codes with your API users in Koa.",
     "main": "index.js",
     "scripts": {
         "test": "mocha"
